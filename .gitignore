@@ -1,0 +1,6 @@
+build
+*.class
+*.o
+*.zip
+*.swp
+*_Output

@@ -1,0 +1,3 @@
+Writting a file of length 1216166, a hash of C6C4DC5BCE95F296188005C28A92C86C, and an offset of 0 to steg.bmp_Output/0.bmp
+Writting a file of length 3038, a hash of 0791B89FB49F891E8E6B3C1DA65F0728, and an offset of 130448 to steg.bmp_Output/128ea6.bmp
+Writting a file of length 1084545, a hash of F2459A21DA312F90ECB223C11EED26E4, and an offset of 133486 to steg.bmp_Output/2096e.unknown
